@@ -33,4 +33,4 @@
 ![image](https://user-images.githubusercontent.com/60398789/111008967-56b91000-8360-11eb-8df2-5503f7741155.png)
 
 ---
-*🖐 Thank you for reading This is an ongoing project. If you're interested, shoot me a message!*
+*🖐 Thank you for reading! This is an ongoing project. If you're interested, shoot me a message!*
