@@ -6,7 +6,7 @@
 
 🧠 Mia's Brain
 ---
-- This is a depiction of Mia's brain lmao. Or a deployment of minimal artificial life simulation.
+- This is a depiction of what's going on with Mia's brain lmao. Or a deployment of minimal artificial life simulation.
 - [Coded with the magical Javascript employing Graphic 2D rendering in HTML5 Canvas](https://github.com/jomiapangilinan/AI-Life/blob/main/AILifeSimulation-Mia'sBrain_Miap.js)
 
 - Snapshot:
